@@ -1,2 +1,2 @@
 # example_repository
-A repository to model the Github overflow
+A repository to model the Github overflow QuantEcon
